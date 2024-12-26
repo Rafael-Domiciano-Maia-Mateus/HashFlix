@@ -23,6 +23,4 @@ class Filme(models.Model):
     def __str__(self):
         return self.titulo
 
-# Criar os episodios
-
-# Criar o usuário
+# Este projeto não está completo
